@@ -1,0 +1,5 @@
+kmeans results (euclidean)
+----------------------------------------
+final SSE: 5597230.766320539
+accuracy: 0.5054
+iterations: 36

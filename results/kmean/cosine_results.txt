@@ -1,0 +1,5 @@
+kmeans results (cosine)
+----------------------------------------
+final SSE: 3124.415852140012
+accuracy: 0.5404
+iterations: 53

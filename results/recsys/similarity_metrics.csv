@@ -1,0 +1,7 @@
+Model,Similarity,RMSE,MAE
+UserCF,cosine,0.9945,0.768
+ItemCF,cosine,0.9942,0.7746
+UserCF,msd,0.9696,0.7454
+ItemCF,msd,0.9336,0.7201
+UserCF,pearson,0.9992,0.7729
+ItemCF,pearson,0.989,0.7677

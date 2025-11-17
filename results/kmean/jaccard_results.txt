@@ -1,0 +1,5 @@
+kmeans results (jaccard)
+----------------------------------------
+final SSE: 3660.643308577517
+accuracy: 0.6027
+iterations: 47

@@ -1,0 +1,5 @@
+K-Means Summary (All Metrics)
+--------------------------------------------------
+Euclidean: SSE=5597230.766320539, Acc=0.5054, Iter=36
+Jaccard:   SSE=3660.643308577517, Acc=0.6027, Iter=47
+Cosine:    SSE=3124.415852140012, Acc=0.5404, Iter=53
